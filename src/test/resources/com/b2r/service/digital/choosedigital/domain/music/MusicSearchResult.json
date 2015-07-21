@@ -1,0 +1,94 @@
+{
+    "numFound":418,
+    "start":0,
+    "searchTerm":"u2",
+    "genres":[
+        {
+            "name":"Rock","count":381
+        },{
+            "name":"Pop","count":56
+        },{
+            "name":"Blues","count":4
+        },{
+            "name":"Country","count":4
+        },{
+            "name":"Comedy","count":1
+        },{
+            "name":"Dance","count":1
+        },{
+            "name":"Holiday","count":1
+        },{
+            "name":"R & B","count":1
+        }
+    ],
+    "releaseTypes":[
+        {
+            "name":"TrackRelease","count":418
+        },{
+            "name":"Album","count":31
+        }
+    ],
+    "releases":[
+        {
+            "cdin":"d0a45f9836c6c45aae6057005fb958c77b14a515",
+            "icpn":"",
+            "albumOnly":"true",
+            "available":"true",
+            "downloadsAvailable":"1",
+            "genre":"Comedy",
+            "displayTitle":"The U2 Spy Incident; Castro; de Gaulle; Nixon; The AMA; Socialized Medicine And More",
+            "sanitizedDisplayTitle":"The U2 Spy Incident; Castro; de Gaulle; Nixon; The AMA; Socialized Medicine And More",
+            "albumDisplayTitle":"At The Hungry I",
+            "sanitizedAlbumDisplayTitle":"At The Hungry I",
+            "label":"VERVE",
+            "copyright":"(P) 1960 The Verve Music Group, a Division of UMG Recordings, Inc.",
+            "duration":"18:06",
+            "explicit":"false",
+            "albumIcpn":"00602527910598",
+            "albumCdin":"9edc123998a4ffc8bf9c3d5fa967229a2d9c068b",
+            "artist":[],
+            "mainArtist":"Mort Sahl",
+            "httpPreviewUrl":"http://d3qcb5osaw6g5.cloudfront.net/s/m/00602527910598/UMG_audclp_00602527910598_01_002_164.mp3",
+            "streamPreviewUrl":"rtmp://s2sacn9d6arc57.cloudfront.net/cfx/st/s/m/00602527910598/UMG_audclp_00602527910598_01_002_164.mp3",
+            "smallImageUrl":"http://d3qcb5osaw6g5.cloudfront.net/i/m/s/00602527910598.jpg",
+            "mediumImageUrl":"http://d3qcb5osaw6g5.cloudfront.net/i/m/m/00602527910598.jpg",
+            "largeImageUrl":"http://d3qcb5osaw6g5.cloudfront.net/i/m/l/00602527910598.jpg",
+            "componentNumber":"1",
+            "trackNumber":"2",
+            "price":"129","startDate":"2011-12-05T00:00:00Z",
+            "bitrate":"",
+            "releaseType":"TrackRelease","originalReleaseDate":"2011-12-06T00:00:00Z",
+            "popularity":"0"
+        },{
+            "cdin":"effbbdb217fdbe065fc3c1a05ab59df11883d7ac",
+            "icpn":"",
+            "albumOnly":"false",
+            "available":"true",
+            "downloadsAvailable":"1",
+            "genre":"Pop",
+            "displayTitle":"The Fly",
+            "sanitizedDisplayTitle":"The Fly",
+            "albumDisplayTitle":"Achtung Baby",
+            "sanitizedAlbumDisplayTitle":"Achtung Baby",
+            "label":"Island\/Interscope\/UMe",
+            "copyright":"(P) 2011 Universal-Island Records Ltd.",
+            "duration":"4:29",
+            "explicit":"false",
+            "albumIcpn":"00602527882048",
+            "albumCdin":"7efeae23302636bbac85fb5a9acfa9dc91f8c406",
+            "artist":[],
+            "mainArtist":"U2",
+            "httpPreviewUrl":"http://d3qcb5osaw6g5.cloudfront.net/s/m/00602527882048/UMG_audclp_00602527882048_01_007_164.mp3",
+            "streamPreviewUrl":"rtmp://s2sacn9d6arc57.cloudfront.net/cfx/st/s/m/00602527882048/UMG_audclp_00602527882048_01_007_164.mp3",
+            "smallImageUrl":"http://d3qcb5osaw6g5.cloudfront.net/i/m/s/00602527882048.jpg",
+            "mediumImageUrl":"http://d3qcb5osaw6g5.cloudfront.net/i/m/m/00602527882048.jpg",
+            "largeImageUrl":"http://d3qcb5osaw6g5.cloudfront.net/i/m/l/00602527882048.jpg",
+            "componentNumber":"1",
+            "trackNumber":"7",
+            "price":"129","startDate":"2011-11-01T00:00:00Z",
+            "bitrate":"",
+            "releaseType":"TrackRelease","originalReleaseDate":"2011-11-01T00:00:00Z",
+            "popularity":"0"
+        }
+    ]
+}
